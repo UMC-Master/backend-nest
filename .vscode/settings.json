@@ -1,0 +1,53 @@
+{
+  "editor.tabSize": 2,
+  "material-icon-theme.folders.associations": {
+    "dto": "interface",
+    "entities": "container",
+    "loaders": "Supabase",
+    "request": "Download",
+    "response": "Upload",
+    "requests": "Download",
+    "responses": "Upload",
+    "payloads": "plastic",
+    "exceptions": "Error",
+    "filters": "Queue",
+    "fields": "Nuxt",
+    "registries": "Template",
+    "maps": "Pipe",
+    "objects": "Unity",
+    "converters": "Contract",
+    "queries": "Mojo"
+  },
+  "material-icon-theme.files.associations": {
+    "*.entity.ts": "3D",
+    "*.enum.ts": "Regedit",
+    "*.enums.ts": "Regedit",
+    "*.loader.ts": "Supabase",
+    "*.repository.ts": "Pdm",
+    "*.dto.ts": "Hurl",
+    "*.payloads.ts": "plastic",
+    "*.field.resolver.ts": "Nuxt",
+    "*.field.resolvers.ts": "Nuxt",
+    "*.seeder.ts": "semgrep",
+    "*.validator.ts": "Conduct",
+    "*.json.ts": "json",
+    "*.jsons.ts": "json",
+    "*.mapper.ts": "modernizr",
+    "*.function.ts": "fortran",
+    "*.exceptions.ts": "sentry",
+    "*.domain-exception.ts": "sentry",
+    "*.scheduler.ts": "syncpack",
+    "main.ts": "markdoc",
+    "*.json.objects.ts": "unity",
+    "*.objects.ts": "unity",
+    "*.json.object.ts": "unity",
+    "*.object.ts": "unity",
+    "*.converter.ts": "coloredpetrinets",
+    "*.strategy.ts": "purescript",
+    "*.query.ts": "mojo"
+  },
+  "material-icon-theme.activeIconPack": "nest",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "always"
+  }
+}
