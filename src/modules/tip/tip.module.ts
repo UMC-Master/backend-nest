@@ -1,5 +1,5 @@
 import { Module } from '@nestjs/common';
-import { TipService } from './tip.service';
+import { TipService } from './services/tip.service';
 import { TipController } from './tip.controller';
 
 @Module({

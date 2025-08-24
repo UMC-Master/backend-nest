@@ -1,5 +1,5 @@
 import { Controller } from '@nestjs/common';
-import { TipService } from './tip.service';
+import { TipService } from './services/tip.service';
 
 @Controller('tip')
 export class TipController {
